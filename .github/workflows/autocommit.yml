@@ -27,8 +27,8 @@ jobs:
           
       - name: Commit changes
         run: |
-          git config --local user.email "iamsandeshstha@gmail.com"
-          git config --local user.name "theSandeshStha"
+          git config --local user.email "shresthaswen80@gmail.com"
+          git config --local user.name "swensum"
           git add -A
           
           git commit -m "🤖[bot] commit ✔️ "
